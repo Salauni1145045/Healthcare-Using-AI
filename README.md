@@ -21,7 +21,7 @@ To implement this experiment I have used ImageDataGenerator function for extract
 <li>Python : version above 3.0</li>
 </ul>
 <h3>Dataset Description</h3><hr>
-I have used dataset containing Covid-19 patients X-Rays image files and Normal patients X-Rays image files. And it can be downloaded from <a href="https://www.kaggle.com/kristiyanlaoli/detecting-covid-19-from-chest-x-ray"></a>
+I have used dataset containing Covid-19 patients X-Rays image files and Normal patients X-Rays image files. And it can be downloaded from <a href="https://www.kaggle.com/kristiyanlaoli/detecting-covid-19-from-chest-x-ray">here</a>
 <h3>Manifest</h3><hr>
 Final_Project.ipynb / Final_Project.py :
 <div>
